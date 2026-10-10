@@ -1,8 +1,8 @@
 # Hi, I'm Oumama Bouhouch 👋
 
-🎓 Computer Science Engineering Student at Universiapolis Agadir
-🤖 Specialization: Big Data & Artificial Intelligence
-💻 Interested in Software Development, Data and AI
+* **Computer Science Engineering Student at Universiapolis Agadir**
+* **Specialization: Big Data & Artificial Intelligence**
+* **Interested in Software Development, Data and AI**
 
 ## About Me
 
